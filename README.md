@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/single-price-grid-challenge-2-1ArEXmxlB](https://www.frontendmentor.io/solutions/single-price-grid-challenge-2-1ArEXmxlB)
-- Live Site URL: [https://jimovan.github.io/single-price-grid/](https://jimovan.github.io/single-price-grid/)
+- Solution URL: [https://www.frontendmentor.io/solutions/four-card-challenge-3-hL5033feq](https://www.frontendmentor.io/solutions/four-card-challenge-3-hL5033feq)
+- Live Site URL: [https://jimovan.github.io/four-card-feature/](https://jimovan.github.io/four-card-feature/)
 
 ### Built with
 
