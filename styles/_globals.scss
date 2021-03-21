@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 100%;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: $lightGrey;
+  color: $greyBlue;
+  font-weight: 400;
+}
+
+h2,
+h3 {
+  color: $darkBlue;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
